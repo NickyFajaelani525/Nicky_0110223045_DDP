@@ -1,0 +1,16 @@
+print("PEMILIK")
+print("Nama: Nicky Fajaelani")
+print("Nim: 0110223045")
+print("Kelas: TI01")
+print("Alamat: Sukajaya,Bogor")
+print("NAMA TEMAN")
+print("Nama: Muhammad Asyam Al Farisi")
+print("Nim: 01102230007")
+print("Kelas: TI01")
+print("Alamat: Beji,Depok")
+
+print(5+5)
+print(10-5)
+print(5*2)
+print(10//2)
+
